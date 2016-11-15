@@ -15,6 +15,7 @@ Thanks to [Tomáš Hetmer](https://github.com/TomHetmer), who discovered it on [
 * [ammeep/pink-canoe](https://github.com/ammeep/pink-canoe/wiki) (random github employee)
 * [antirez/recidiv](https://github.com/antirez/recidiv/wiki) (lesser known antirez's project)
 * [facebook/dfuse](https://github.com/facebook/dfuse/wiki) (facebook project)
+* [Microsoft/pal](https://github.com/Microsoft/pal/wiki) (even Microsoft)
 
 ## Spread a word
 
