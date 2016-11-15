@@ -1,6 +1,6 @@
 # random github wikis pwned
 
-By default all Github projects have wiki open to edit by everyone. It's not good choice of defaults IMHO.
+[By default](https://help.github.com/articles/about-github-wikis/) all Github projects have wiki open to edit by everyone. It's not good choice of defaults IMHO.
 
 Look at your own repositories or your favorite open source project.
 
