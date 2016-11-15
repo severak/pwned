@@ -13,6 +13,7 @@ Thanks to [Tomáš Hetmer](https://github.com/TomHetmer), who discovered it on [
 ## Deployed at
 
 * [ammeep/pink-canoe](https://github.com/ammeep/pink-canoe/wiki) (random github employee)
+* [antirez/recidiv](https://github.com/antirez/recidiv/wiki) (lesser known antirez's project)
 
 ## Spread a word
 
