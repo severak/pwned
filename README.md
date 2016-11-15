@@ -12,7 +12,7 @@ Thanks to [Tomáš Hetmer](https://github.com/TomHetmer), who discovered it on [
 
 ## Deployed at
 
-*nowhere yet*
+* [ammeep/pink-canoe](https://github.com/ammeep/pink-canoe/wiki) (random github employee)
 
 ## Spread a word
 
